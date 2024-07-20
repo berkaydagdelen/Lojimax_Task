@@ -186,7 +186,7 @@
             array += b;
         }
 
-        Console.WriteLine("1 1 " + array);
+        Console.WriteLine("11" + array);
 
 
         //**** ilk başta 2 ile başlamak için değişkenleri default olarak 1 atıyorum sonra döngüde ilk iki değeri topluyor.
