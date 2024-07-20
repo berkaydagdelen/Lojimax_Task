@@ -48,11 +48,11 @@
 
         if (val1 == val2)
         {
-            Console.WriteLine("Anagramdır");
+            Console.WriteLine("Anagramdır.");
         }
         else
         {
-            Console.WriteLine("Anagram değildir");
+            Console.WriteLine("Anagram değildir.");
         }
 
 
